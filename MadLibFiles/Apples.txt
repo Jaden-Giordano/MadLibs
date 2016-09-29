@@ -1,0 +1,6 @@
+Adjective
+Noun
+VerbEndingInED
+Noun
+**STORY**
+The %s %s %s over the %s.

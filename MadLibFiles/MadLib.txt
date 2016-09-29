@@ -1,0 +1,21 @@
+Relative
+Adjective
+Adjective
+Adjective
+PersonInRoom
+Adjective
+Adjective
+VerbEndingInED
+BodyPart
+VerbEndingInING
+PluralNoun
+Noun
+Adverb
+Verb
+Verb
+Relative
+PersonInRoom
+**STORY**
+Dear %s,
+I am having a(n) %s time at camp. The counselor is %s and the food is %s. I met %s and we became %s friends. Unfortunately, %s is %s and I %s my %s so we couldn`t go %s like everybody else. I need more %s and a %s sharpener, so please %s %s more when you %s back.
+Yours, %s
